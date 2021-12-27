@@ -4,3 +4,6 @@ Emoji
 colors
 Vibrant
 Tyoe option
+
+Dark Mode
+Video calls
