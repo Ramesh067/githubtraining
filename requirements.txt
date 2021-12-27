@@ -7,3 +7,7 @@ Tyoe option
 
 Dark Mode
 Video calls
+
+Payments
+Send Money 
+Receive Money
